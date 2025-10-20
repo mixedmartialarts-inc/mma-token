@@ -1,0 +1,14 @@
+{
+  "name": "MMA.INC Testnet Token",
+  "symbol": "MMATN",
+  "description": "The MMATN Token is the testnet version of the MMA.INC Utility Token, deployed on Solana Testnet to test tokenomics, rewards, and AI-integrated Web3 mechanics ahead of the mainnet MMAI launch.",
+  "image": "https://raw.githubusercontent.com/mixedmartialarts-inc/mma-token/refs/heads/main/testnet/mma-testnet-logo.jpeg",
+  "external_url": "https://mma.inc",
+  "attributes": [
+    { "trait_type": "Network", "value": "Solana Testnet" },
+    { "trait_type": "Purpose", "value": "Testing Tokenomics & Rewards" },
+    { "trait_type": "Stage", "value": "Pre-Mainnet Validation" },
+    { "trait_type": "Mainnet Equivalent", "value": "MMAI" }
+  ]
+}
+
